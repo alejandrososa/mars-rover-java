@@ -1,4 +1,3 @@
-```markdown
 # Mars Rover Java
 
 Mars Rover Java is a project simulating a Mars rover explorer using Java and Spring Boot with hexagonal architecture (Ports and Adapters). The project focuses on controlling the rover's movements and direction within a grid, showcasing modular software design. Key technologies include Java, RESTful APIs, and principles of clean architecture.
@@ -127,4 +126,3 @@ For more information about available commands and usage, run:
    ```
 
 Please refer to this README file for detailed instructions on how to use the project and understand its features.
-```
